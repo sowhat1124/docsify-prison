@@ -1,4 +1,4 @@
-<!-- docs/_sidebar -->
+<!-- 01-jian-xing/_sidebar -->
 
 * [監獄行刑法本法](01-jian-xing/001-ben-fa.md)
 * [比較表](01-jian-xing/002-bi-jiao)
