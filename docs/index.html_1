@@ -11,25 +11,21 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
   <!-- Custom theme styles -->
   <style>
-    :root {
-       /* Tables */
-       --table-body-border-width: 1px;
-       --table-body-border-color: var(--table-cell-border-color);
-
-       --table-cell-border-width: 1px;
-       --table-cell-padding: 0.5em 0.5em;
-
-       /*--table-head-background: inherit;*/
-       --table-head-border-color: var(--table-cell-border-color);
-       --table-head-border-width: 1px;
-       /*--table-head-font-weight: var(--strong-font-weight);*/
-
-       --table-row-even-background: var(--mono-tint3);
-       --table-row-odd-background: inherit;
-     }
-     .markdown-section th {
-       border: 1px solid #ddd;
-     }
+           .markdown-section th {
+             border: 1px solid #ddd;
+             font-weight: bold;
+             padding: 6px 13px;
+           }
+           .markdown-section td {
+             border: 1px solid #ddd;
+             padding: 6px 13px;
+           }
+           .markdown-section tr {
+             border-top: 1px solid #ccc;
+           }
+           .markdown-section tr:nth-child(2n) {
+             background-color: #f8f8f8;
+           }
   </style>
 
 
