@@ -1,83 +1,107 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Document</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-
-  <!-- themes -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
-  <!-- Custom theme styles -->
-  <style>
-    :root {
-       --sidebar-width: 20rem;
-       /* Tables */
-       --table-body-border-width: 1px;
-       --table-body-border-color: var(--table-cell-border-color);
-
-       --table-cell-border-width: 1px;
-       --table-cell-padding: 0.5em 0.5em;
-
-       /*--table-head-background: inherit;*/
-       --table-head-border-color: var(--table-cell-border-color);
-       --table-head-border-width: 1px;
-       /*--table-head-font-weight: var(--strong-font-weight);*/
-
-       --table-row-even-background: var(--mono-tint3);
-       --table-row-odd-background: inherit;
-     }
-     .markdown-section th {
-       border: 1px solid #ddd;
-     }
-  </style>
-
-
-</head>
-<body>
-  <div id="app"></div>
-
-
-  <!-- Setting -->
-  <script>
-    window.$docsify = {
-      name: '',
-      repo: '',
-      name: '2022',
-      maxLevel: 2,
-      // 加载 _sidebar.md
-      loadSidebar: true,
-      autoHeader: false,
-      subMaxLevel:4,
-      //mergeNavbar: true,
-      loadNavbar: true,
-      topMargin: 90, // default: 0
-      coverpage: true,
-      // plug-in
-      // theme-setting
-
-      // 01-字数统计
-      count:{
-        countable:true,
-        fontsize:'0.9em',
-        color:'rgb(90,90,90)',
-        language:'chinese',
+  <head>
+    <meta charset="UTF-8">
+    <title>2022</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  
+    <!-- themes -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+    <link rel="stylesheet" href="/themes/vue.css" title="vue" disable/>
+    <link rel="stylesheet" href="/themes/dark.css" title="dark" disabled />
+    <link rel="stylesheet" href="/themes/buble.css" title="buble" disabled />
+    <link rel="stylesheet" href="/themes/pure.css" title="pure" disabled />
+    <!-- Custom theme styles -->
+    <style>
+      :root {
+        --sidebar-width: 20rem;
+        /* Tables */
+        --table-body-border-width: 1px;
+        --table-body-border-color: var(--table-cell-border-color);
+  
+        --table-cell-border-width: 1px;
+        --table-cell-padding: 0.5em 0.5em;
+  
+        /*--table-head-background: inherit;*/
+        --table-head-border-color: var(--table-cell-border-color);
+        --table-head-border-width: 1px;
+        /*--table-head-font-weight: var(--strong-font-weight);*/
+  
+        --table-row-even-background: var(--mono-tint3);
+        --table-row-odd-background: inherit;
+      }
+      .markdown-section th {
+        border: 1px solid #ddd;
+      }
+      /* copy from offical */
+      nav.app-nav li ul {
+        min-width: 100px;
+      }
+      #carbonads {
+        box-shadow: none !important;
+        width: auto !important;
       }
 
-      //
-      //
-      //finish
-    };
-  </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    </style>
+  
+  
+  </head>
+  <body>
+    <div id="app"></div>
 
-  <!-- plug-in -->
-  <!-- 01-字数统计 -->
-  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+    <!-- copy from offical -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-plugin-carbon@1"></script>
+  
+    <!-- Setting -->
+    <script>
+      window.$docsify = {
+        name: '',
+        repo: '',
+        name: '2022',
+        maxLevel: 2,
+        // 加载 _sidebar.md
+        loadSidebar: true,
+        autoHeader: false,
+        subMaxLevel: 4,
+        //mergeNavbar: true,
+        loadNavbar: true,
+        topMargin: 90, // default: 0
+        coverpage: false,
+        // plug-in
+        // theme-setting
+  
+        // 01-字数统计
+        count:{
+          countable:true,
+          fontsize:'0.9em',
+          color:'rgb(90,90,90)',
+          language:'chinese',
+        }
+  
+        //
 
-  <!-- Done -->
-</body>
+        //
+        //finish
+      };
+    </script>
+    <!-- Docsify v4 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  
+    <!-- plug-in -->
+    <!-- 01-字数统计 -->
+    <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  
+    <!-- copy from offical -->
+    <script src="/lib/plugins/search.js"></script>
+    <script src="/lib/plugins/front-matter.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-nginx.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-php.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-python.min.js"></script>
+    <!-- Done -->
+  </body>
 </html>
 
