@@ -2,7 +2,7 @@
 
 * [2022-Exam](README)
 * [監獄行刑法](01-jian-xing/)
-* [刑法](02-xing-fa/)
+* [刑法](02.xing.fa/)
 * [憲法](06-xian-fa/)
 
 ---
