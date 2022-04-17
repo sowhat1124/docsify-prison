@@ -83,26 +83,18 @@
           crossChapter: true,
           crossChapterText: true,
         },
-
-        // 頁面滾回頂部按鈕
-        scrollToTop: {
-          auto: true,
-          text: 'Top',	<!-- 文字顯示 -->
-          right: 15,		<!-- 方位右邊 -->
-          bottom: 15,		<!-- 方位下面 -->
-          offset: 500
-        }
         //
-
+        search: 'auto',
+        //
+        sidebarDisplayLevel: 1, // set sidebar display level
+        //
         //finish
+
       };
     </script>
 
     <!-- Docsify v4 -->
-    <!-- 
-        <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-    -->
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   
     <!-- plug-in -->
     <!-- 01-字数统计 -->
@@ -127,9 +119,6 @@
 
     <!-- search -->
     <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
-
-    <!-- 頁面滾回頂部按鈕 -->
-    <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
 
     <!-- not use now 
     ---
