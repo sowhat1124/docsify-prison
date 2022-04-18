@@ -36,7 +36,7 @@
   * [太平 筆記](02.xing.fa/xing.fa.summary.taiping.md)
 
 * 憲法
-  * [所有法條](/06.xian.fa/001.orignal.statement)
-  * [重點](/06.xian.fa/002.notes)
+  * [所有法條](/03.xian.fa/001.orignal.statement)
+  * [重點](/03.xian.fa/002.notes)
 
 

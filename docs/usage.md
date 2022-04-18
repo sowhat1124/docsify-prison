@@ -2,7 +2,10 @@
 
 tranei
 
-
+:exclamation: wneitr  
+:question:
+:heavy_check_mark:
+:heavy_minus_sign:
 
 ## test
 
@@ -107,6 +110,8 @@ Body text
 <mark>Marked text</mark>
 
 <pre>Preformatted text</pre>
+
+Preformatted text
 
 <small>Small Text</small>
 

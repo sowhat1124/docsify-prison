@@ -2,123 +2,40 @@
 
 ---
 
-?> **xxx** tsrnei
+?> :100: tsrnei
 
-!> <u>trsnei4srni</u>
-
-
-[連結標籤]: README.md "HackMD"
-
-[連結標籤]
-
-
-I get 10 times more traffic from [Google][] than from
-[Yahoo][] or [MSN][].
-
-sarsra [4]
+> :exclamation: tarnei
+> what is this  
+> trstnei
 
 
 
+<font style="background: lightCoral" color=Blue> trsanei </font>
 
-> Between people an island exists.  I want visit that island. [^9]
+### 21 (阻卻違法- 依法令與命令之行爲)
 
-Here is a simple footnote[^8]. With some additional text after it.
+依**法令**之行為，不罰。
 
-
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
-[連結標籤]  
+依所屬上級公務員**命令**之職務上行為，不罰。但<u>明知命令違法者，不在此限</u>。
 
 
 
+<mark>- Note -</mark>  
+raneitranei trasnei neitr  
+raneitranei trasnei neitr
+raneitranei trasnei neitr
+tr
 
-[google]: http://google.com/        "Google"
-[yahoo]:  http://search.yahoo.com/  "Yahoo Search"
-[msn]:    http://search.msn.com/    "MSN Search"
+
+<mark>- Add -</mark>  
+raneitranei trasnei neitr  
+raneitranei trasnei neitr
+raneitranei trasnei neitr
+tr
 
 
-
-[^8]: xxxxxx
-rasneitra  
-trneitnrsei  
-
-[^9]: Island by Jung Hyun-jong [(ref)](https://jaypsong.blog/2011/11/10/island-by-jung-hyun-jong/)
+<mark>\<add\></mark>  
+raneitranei trasnei neitr  
+raneitranei trasnei neitr
+raneitranei trasnei neitr
+tr
