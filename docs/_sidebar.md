@@ -5,8 +5,8 @@
 * [刑法](02.xing.fa/)
 * [憲法](03.xian.fa/)
 * [犯罪學](07-fan-zui-xue/)
+* [Tarot](tarot/)
 ---
 
-* [Tarot](tarot/)
 * [Usage](usage)
 * [xiao-he](xiao-he)
