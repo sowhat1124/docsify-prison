@@ -4,11 +4,11 @@
 
 qwerty
 
-![img](.assets/xiao-he/img.png)
+![img](assets/xiao-he/img.png)
 
 colemak
 
-![colemak-xiaohe](.assets/xiao-he/colemak-xiaohe.png)
+![colemak-xiaohe](assets/xiao-he/colemak-xiaohe.png)
 
 
 table-1
@@ -50,7 +50,7 @@ table-1
 双形即从每个字中提取首末两部分形态各异的组字单元，以区分同音字。
 
 鹤形包含以下三类：
-![img](.assets/xiao-he/tu.png) [部件字根](https://help.flypy.com/#/bj) 基本为偏旁部首，日常称谓定其键位，必须掌握！
+![img](assets/xiao-he/tu.png) [部件字根](https://help.flypy.com/#/bj) 基本为偏旁部首，日常称谓定其键位，必须掌握！
 
 [小字字根](https://help.flypy.com/#/xz) 基本为小且独立的字，规则推导字根，按其声母定键，理解为主。
 
@@ -202,11 +202,11 @@ table-1
 
 **部件规律字根，请掌握！**
 
-![img](.assets/xiao-he/hebu.png)
+![img](assets/xiao-he/hebu.png)
 
 记忆方法如下：
 
-![img](.assets/xiao-he/bujm.png)
+![img](assets/xiao-he/bujm.png)
 
 ### 1.2.3 鹤形 小字字根
 
@@ -495,7 +495,7 @@ table-1
 
 ### 1.2.5 鹤形 字根合图
 
-![imgg](.assets/xiao-he/imgg.png)
+![imgg](assets/xiao-he/imgg.png)
 
 ## 2 输入法应用
 
@@ -780,7 +780,7 @@ table-1
 
 #### 一、快符、O符
 
-![img](.assets/xiao-he/ddfh.png)
+![img](assets/xiao-he/ddfh.png)
 
 - **分号键**：引导快符及特殊功能，双击上屏本身
   `;a` 输出感叹号！（其它符号输出类推）
@@ -796,7 +796,7 @@ table-1
   `ox` 引导小字字根列表，如：`oxa` 则显示 a 字母上的小字字根
   `of` 引导成组符号（编码见二）
   `ot` 引导特殊符号（编码见三）
-  `oq` 引导QQ表情，如：`oqcy`上屏 ![img](.assets/xiao-he/cy.png)
+  `oq` 引导QQ表情，如：`oqcy`上屏 ![img](assets/xiao-he/cy.png)
   `ow` 引导微信表情，如：`owwx`
 
 #### 二、成组符号
@@ -986,7 +986,7 @@ table-1
 
 3. 下面放一篇某打字群的赛文及成绩，可以了解一下。关键信息有：速度[4]、击键[1]、码长[2]。小鹤音形对于普通文章的码长在2左右是比较正常的，排前面部分有三个用小鹤的，都是小鹤音形。你也可以用跟打器测试一下你的水平。
 
-   ![img](.assets/xiao-he/xhsw.png)
+   ![img](assets/xiao-he/xhsw.png)
 
    晴天打字日赛第 132 期 赛文：
 
