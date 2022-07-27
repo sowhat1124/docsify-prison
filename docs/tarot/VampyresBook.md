@@ -8,7 +8,7 @@
 
 &nbsp;<br>
 
-<img style="text-align:center;" src="BookArt/BookCover.jpg" alt="Phantasmagoria">
+<img style="text-align:center;" src="assets/VampyresBookt/BookCover.jpg" alt="Phantasmagoria">
 
 <!--PAGE-BREAK-->
 
@@ -52,7 +52,7 @@
 
 &nbsp;<br>
 
-<img src="BookArt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
+<img src="assets/VampyresBookt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
 
 </div>
 
@@ -197,7 +197,7 @@ And with strange aeons even death may die.'</i></p>
 
 &nbsp;<br>
 
-<img src="BookArt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
+<img src="assets/VampyresBookt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
 
 </div>
 
@@ -325,7 +325,7 @@ The Birth - Earth - The Skull - The Daughter</p>
 
 &nbsp;<br>
 
-<img src="BookArt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
+<img src="assets/VampyresBookt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
 
 </div>
 
@@ -465,7 +465,7 @@ Assiah - Earth - Daughters</p>
 
 &nbsp;<br>
 
-<p style="text-align:center;"><img src="BookArt/TreeOfLife.png" alt="Tree of Life"></p>
+<p style="text-align:center;"><img src="assets/VampyresBookt/TreeOfLife.png" alt="Tree of Life"></p>
 
 <p>The diagram of the Tree of Life consists of ten interconnected spheres, called the Sephiroth, which depicts ten archetypal qualities These qualities originate from the Divine Being, or Everlasting, and are reflected in all the natural world, including human nature, following the idea that we are created in the image of God. These spheres are connected by 22 paths, which in turn are represented by the 22 cards of the Major Arcana. Each sphere and path has different characteristics and meanings, forming the basis of how life is created and of our place within the universe. Study and contemplation of the Tree of Life diagram helps in understanding both the workings of the universe and the mechanics of the tarot.</p>
 
@@ -548,7 +548,7 @@ And I become the other dreamers.'</i></p>
 
 &nbsp;<br>
 
-<img src="BookArt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
+<img src="assets/VampyresBookt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
 
 </div>
 
@@ -603,7 +603,7 @@ And I become the other dreamers.'</i></p>
 
 <p><b><u>Soothsayer</u></b></p>
 
-<p style="text-align:center;"><img src="BookArt/Soothsayer@2x.png" alt="Soothsayer"></p>
+<p style="text-align:center;"><img src="assets/VampyresBookt/Soothsayer@2x.png" alt="Soothsayer"></p>
 
 <p>This spread is good to get a new perspective of a situation. After shuffling, deal a single card. Focus all your insight and attention on the meaning and symbology of this card. Explore how the card reveals answers to your question, and study its explanation in detail. Over the next week write down anything that relates to it in your daily life, your studies, events, images, thoughts or feelings. Employ some of the creative exercises featured in Mirage and Imagination to get a deeper understanding of the card's personal relevance to your question.</p>
 
@@ -611,7 +611,7 @@ And I become the other dreamers.'</i></p>
 
 <p><b><u>Dark Mirror</u></b></p>
 
-<p style="text-align:center;"><img src="BookArt/DarkMirror@2x.png" alt="Dark Mirror"></p>
+<p style="text-align:center;"><img src="assets/VampyresBookt/DarkMirror@2x.png" alt="Dark Mirror"></p>
 
 <p>The Dark Mirror reveals doorways and obstacles. Lay Card 1 in front of you, followed by Card 2 to the right of the first. In this spread Card 1 represents positive influences relating to the question - a doorway that can be opened, for this card read all the positive aspects of the card meaning only. Card 2 shows an obstacle that relate to the question, read the Shadow aspect of this card and try to see how this key will open the doorway.</p>
 
@@ -619,7 +619,7 @@ And I become the other dreamers.'</i></p>
 
 <p><b><u>Blood Trail </u></b></p>
 
-<p style="text-align:center;"><img src="BookArt/BloodTrail@2x.png" alt="Blood Trail"></p>
+<p style="text-align:center;"><img src="assets/VampyresBookt/BloodTrail@2x.png" alt="Blood Trail"></p>
 
 <p>This three card reading reveals the past, present and future influences on any situation. Card 1 shows the past events or feelings relating the the question. The second, Card 2, should be dealt to the right of the first card, this represents the present circumstance, with clues to resolving or explaining it. Card 3 is placed to the left of the previous card, so you have three cards side by side. This last card shows the way the situation is heading, should things remain on the course they are traveling. It should be noted that the future here is not a transportation to a future date but the direction in which the situation or issue is flowing. Any changes we make, especially those relating to the other cards in the spread will alter the flow as we desire. Look especially at the narrative across the three cards and how they are linked, how is the life blood changing? We may be presented with a deeper understanding of how an issue developed, the reason for a present situation to bring about a positive future or a difficult lesson we need to learn in order to move on.</p>
 
@@ -627,7 +627,7 @@ And I become the other dreamers.'</i></p>
 
 <p><b><u>The Elemental Cross</u></b></p>
 
-<p style="text-align:center;"><img src="BookArt/ElementalCross@2x.png" alt="The Elemental Cross"></p>
+<p style="text-align:center;"><img src="assets/VampyresBookt/ElementalCross@2x.png" alt="The Elemental Cross"></p>
 
 <p>This spread gives a detailed account of all the forces at play within a particular situation or issue. Card 1 is placed in front of you face down. Place Card 2 to the right and Card 3 to the left. Next, deal Card 4 above and Card 5 below the first card you dealt. At the bottom of this cross (under Card 5), place the last - Card 6. Turn each card over in the order you laid them and interpret each card in relation to its position as follows. Card 1 - This explains the basic issues around the question, it is an overview of the questioner's concerns, the situation in its essence. Card 2 - This card is the questioner's energy (Fire) in the situation and shows the effects or foundation of that willpower. Card 3 - The third card, opposite the second, is the Water element and signifies the emotions that are associated with the question or topic. Card 4 - This shows the resulting combination of the previous cards, and how the question effects our spirit and self identity. As a symbol of the Air element it relates to the thought processes contained in the situation and the intellectual aspects. Card 5 - This represents the Earth element and presents us with the physical reality, how the question effects our everyday life, how it manifests, and the result of the previous cards. It can also point to obstacles that may be holding us back or encourage us to look forward to things developing. The final Card 6 at the base of The Elemental Cross represents Spirit and is the secret key to unlocking the treasure contained in the cross.</p>
 
@@ -635,7 +635,7 @@ And I become the other dreamers.'</i></p>
 
 <p><b><u>Book of Shadows</u></b></p>
 
-<p style="text-align:center;"><img src="BookArt/BookOfShadows@2x.png" alt="Book of Shadows"></p>
+<p style="text-align:center;"><img src="assets/VampyresBookt/BookOfShadows@2x.png" alt="Book of Shadows"></p>
 
 <p>This reading helps us discover difficulties underpinning any issues. First we must determine three aspects associated to the question that we want to explore. This could be the past, present and future, the effect on, the mind, body and soul, or on our emotions, our actions and our will. Once you have determined the three subjects you are to work with begin by dealing three cards face down in sequence, from left to right these are Cards 1, 2 and 3. Beneath each of these place another card making a spread of six cards in total. Cards 1 to 3 should be read as the positive aspects of their given subjects, while the cards beneath them are the difficulties involved, or the lessons to be learnt. For more information on the negative aspects of the cards consult the Shadow section in the card explanations.</p>
 
@@ -643,7 +643,7 @@ And I become the other dreamers.'</i></p>
 
 <p><b><u>Trespass</u></b></p>
 
-<p style="text-align:center;"><img src="BookArt/Trespass@2x.png" alt="Trespass"></p>
+<p style="text-align:center;"><img src="assets/VampyresBookt/Trespass@2x.png" alt="Trespass"></p>
 
 <p>For this reading of the cards start by looking at the card images and choose one that relates to your question or topic. Alternatively pick one of your personal cards (see Kith and Kin) or just one that catches your eye that you’d like to explore. Lay this card face up in front of you. Shuffle and deal six more cards to the right of your chosen card. Starting with your chosen card begin by making up a short story or narrative from the image on the card. You can do this either in your mind or can write it down as you do the reading. It can be as long or short as you wish. Turn over each card in turn adding to your story as you go, until you reach the seventh card, which should contain the conclusion to your story. If you have been writing it down you’ll be able to read it as a complete story and seek out messages relating to your question, topic or selected card. It's good to re-read it again a few days later when other things may occur to you in the narrative that unlock secrets.</p>
 
@@ -651,7 +651,7 @@ And I become the other dreamers.'</i></p>
 
 <p><b><u>Forbidden Fruit</u></b></p>
 
-<p style="text-align:center;"><img src="BookArt/ForbiddenFruit@2x.png" alt="Forbidden Fruit"></p>
+<p style="text-align:center;"><img src="assets/VampyresBookt/ForbiddenFruit@2x.png" alt="Forbidden Fruit"></p>
 
 <p>The Tree of Life is the basis of this spread. It gives a deep insight into our personal energy channels at a particular time, or in a certain situation. This reading reveals the secret workings of our various spiritual aspects, and special attention should be given to any Major Arcana cards that appear. It can give an extensive understanding of forces at work, either as a general reading about ourselves or regarding a topic or issue. Shuffle the cards well. Lay ten cards face down in the positions of the 10 Sephiroth on the Tree of Life diagram. Turn and interpret each card in the order they appear on the tree, starting with Kether and ending in Malkuth. By relating the meanings of the cards to the descriptions of the Sephiroth accompanying the Tree of Life diagram, we can build a complex picture of our spiritual currents at a given time. As the Tree of Life is not only a map of the secret workings of the universe, but also of every human being, we can use this reading to investigate and heal any blockages that come to light.</p>
 
@@ -659,7 +659,7 @@ And I become the other dreamers.'</i></p>
 
 <p><b><u>The Prophecy</u></b></p>
 
-<p style="text-align:center;"><img src="BookArt/Prophecy@2x.png" alt="The Prophecy"></p>
+<p style="text-align:center;"><img src="assets/VampyresBookt/Prophecy@2x.png" alt="The Prophecy"></p>
 
 <p>The Prophecy allows us to look into the future within the span of a year. You can use it as a general guide for personal insight or when asking about a specific subject, event or topic. Beginning with a topmost card, create a circle of twelve face down cards. Counting clockwise from the topmost card, which signifies January, find the card that represents the current month and turn it face up. This reveals something in your present circumstances to which the reading relates. From here you can peer into the future by counting clockwise through the months to a specific time. Only six cards should be overturned in total. Those face down at the end of the reading must be shuffled back into the deck without being looked at in order for the Prophecy to retain its truth.</p>
 
@@ -667,7 +667,7 @@ And I become the other dreamers.'</i></p>
 
 <p><b><u>The Labyrinth</u></b></p>
 
-<p style="text-align:center;"><img src="BookArt/Labyrinth@2x.png" alt="The Labyrinth"></p>
+<p style="text-align:center;"><img src="assets/VampyresBookt/Labyrinth@2x.png" alt="The Labyrinth"></p>
 
 <p>The Labyrinth unveils the outcome of different paths we can take in a particular situation. For this spread you will use fourteen cards in total. Deal two cards face down, about twelve inches apart. Beneath both of these deal two more cards about six inches apart. Underneath each of these four new cards place two cards side by side. This gives us two cards on the top level, four in the middle row and eight (4 pairs) at the bottom. Start the reading by turning over the two cards on the top level. These represent two different pathways you could take relating to your question. Take some time to think about the meaning of these two cards and how they relate to your question. Decide which path you would like to explore to discover where that action or quality may lead. Turn over the two cards beneath the chosen top level card. Here you have two more options to inquire into - each revealing a possible result of the above action. Select which of these two cards you want to investigate and turn over the pair of cards beneath it to discover the two outcomes from the path you have chosen from the top and middle levels. If you want you can return to the first cards and select a different path to get an inkling of how taking alternative actions change the outcome of a situation.</p>
 
@@ -828,7 +828,7 @@ Order of Witches, Teachers and Necromancers.</i></p>
 
 &nbsp;<br>
 
-<img style="text-align:center;" src="BookArt/AstrologyChart.png" alt="Astrology Chart">
+<img style="text-align:center;" src="assets/VampyresBookt/AstrologyChart.png" alt="Astrology Chart">
 
 <!--PAGE-BREAK-->
 
@@ -849,7 +849,7 @@ rest in Simplicity, and listen to the Silence.</i></p>
 
 &nbsp;<br>
 
-<img src="BookArt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
+<img src="assets/VampyresBookt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
 
 </div>
 
@@ -865,7 +865,7 @@ rest in Simplicity, and listen to the Silence.</i></p>
 
 &nbsp;<br>
 
-<img src="BookArt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
+<img src="assets/VampyresBookt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
 
 </div>
 
@@ -1897,7 +1897,7 @@ Offering to be mine.</p>
 
 &nbsp;<br>
 
-<img src="BookArt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
+<img src="assets/VampyresBookt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
 
 </div>
 
@@ -2439,7 +2439,7 @@ The Rose of the Palace of Fire.</p>
 
 &nbsp;<br>
 
-<img src="BookArt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
+<img src="assets/VampyresBookt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
 
 </div>
 
@@ -3005,7 +3005,7 @@ The Lotus of the Palace of the Floods</p>
 
 &nbsp;<br>
 
-<img src="BookArt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
+<img src="assets/VampyresBookt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
 
 </div>
 
@@ -3568,7 +3568,7 @@ The Princess of the Rushing Winds.</p>
 
 &nbsp;<br>
 
-<img src="BookArt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
+<img src="assets/VampyresBookt/DeathHeadHawkMoth@2x.png" alt="Hawk Moth">
 
 </div>
 
