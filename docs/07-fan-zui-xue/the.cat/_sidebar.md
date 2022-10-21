@@ -6,6 +6,7 @@
 ---
 
 [Note](/07-fan-zui-xue/the.cat/note.md)
+[c00](/07-fan-zui-xue/the.cat/c00.md)
 [c01](/07-fan-zui-xue/the.cat/c01.md)
 [c01.s01](/07-fan-zui-xue/the.cat/c01.s01.md)
 [c01.s02](/07-fan-zui-xue/the.cat/c01.s02.md)
