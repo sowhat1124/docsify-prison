@@ -11,3 +11,5 @@
 [c01.s01](/07-fan-zui-xue/the.cat/c01.s01.md)
 [c01.s02](/07-fan-zui-xue/the.cat/c01.s02.md)
 [c01.s03](/07-fan-zui-xue/the.cat/c01.s03.md)
+[c01.s04](/07-fan-zui-xue/the.cat/c01.s04.md)
+[c01.s05](/07-fan-zui-xue/the.cat/c01.s05.md)
