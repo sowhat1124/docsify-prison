@@ -19,8 +19,6 @@
 [c01.s09](/07-fan-zui-xue/the.cat/c01.s09.md)
 [c01.s10](/07-fan-zui-xue/the.cat/c01.s10.md)
 [c01.s11](/07-fan-zui-xue/the.cat/c01.s11.md)
-[c01.s12](/07-fan-zui-xue/the.cat/c01.s12.md)
-[c01.s13](/07-fan-zui-xue/the.cat/c01.s13.md)
 
 ---
 
