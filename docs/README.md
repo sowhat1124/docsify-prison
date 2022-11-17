@@ -30,3 +30,31 @@
 
 申論 60%
 選擇 40%
+
+
+emoji-memo :memo:
+
+emoji-paperclip :paperclip:
+
+emoji-pencil :pencil:
+
+emoji-pencil2 :pencil2:
+
+emoji-notebook :notebook_with_decorative_cover:
+
+emoji-file_folder :file_folder:
+
+emoji-file_folder_open :open_file_folder:
+
+emoji-scissors :scissors:
+
+emoji-pushpin :pushpin:
+
+emoji-exclamation :heavy_exclamation_mark:
+
+emoji-information :information_source:
+
+emoji-check_heavy :heavy_check_mark:
+
+emoji-check_box :ballot_box_with_check:
+
