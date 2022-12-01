@@ -7,99 +7,93 @@
     <meta name="description" content="Description">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   
-    <!-- Theme: Simple Dark -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
-
-    <!-- begin// themes not use now -->
-    <!--
+    <!-- themes -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" >
-    -->
-    <!-- end// themes not use now -->
+
 
     <!-- Custom theme styles -->
     <style>
-    /*
-       check here: <https://jhildenbiddle.github.io/docsify-themeable/#/customization?id=code>
-    */
-    /* Content ===============================================*/
-    :root {
-      --base-font-size       : 12px;
-      --base-background-color: #121212;
-      --base-color: #875f5f;
-
-
-      /* Headings */
-      --heading-margin: 0 0 0;
-
-      --heading-h1-color: #00875f;
-      --heading-h1-font-size: 1rem;
-      --heading-h1-font-weight: 600;
-      --heading-h1-margin: 0 0 0;
-
-      --heading-h2-color: #00875f;
-      --heading-h2-font-size: 1rem;
-      --heading-h2-font-weight: 600;
-
-      --heading-h3-color: #00875f;
-      --heading-h3-font-size: 1rem;
-      --heading-h3-font-weight: 600;
-
-      --heading-h4-color: #00875f;
-      --heading-h4-font-size: 1rem;
-      --heading-h4-font-weight: 600;
-
-      --heading-h5-color: #00875f;
-      --heading-h5-font-size: 1rem;
-      --heading-h5-font-weight: 600;
-
-      --heading-h6-color: #00875f;
-      --heading-h6-font-size: 1rem;
-      --heading-h6-font-weight: 600;
-
-      /* links */
-      --link-color: darkorange;
-      /* code */
-      --code-inline-background: rgb(45,45,45);
-      /* blokquote */
-      --blockquote-background: rgb(25,25,25);
-      /* table */
-       --table-row-odd-background: rgb(25,25,25);
-       --table-head-background:;
-       --table-head-font-weight: 100;
-       /*
-       */
+      :root {
+        --body-background-color: #red;
+        --sidebar-width: 20rem;
+        --base-background-color: rgb(225, 225, 225);
+        /* Tables */
+        --table-body-border-width: 1px;
+        --table-body-border-color: var(--table-cell-border-color);
+  
+        --table-cell-border-width: 1px;
+        --table-cell-padding: 0.5em 0.5em;
+  
+        /*--table-head-background: inherit;*/
+        --table-head-border-color: var(--table-cell-border-color);
+        --table-head-border-width: 1px;
+        /*--table-head-font-weight: var(--strong-font-weight);*/
+  
+        --table-row-even-background: var(--mono-tint3);
+        --table-row-odd-background: inherit;
+      }
+      .markdown-section th {
+        border: 1px solid #ddd;
+      }
+      /* copy from offical */
+      nav.app-nav li ul {
+        min-width: 100px;
+      }
+      #carbonads {
+        box-shadow: none !important;
+        width: auto !important;
+      }
+    /*-----------------------*/
+    /* markdown content found on pages */
+    .markdown-section h1,
+    .markdown-section h2,
+    .markdown-section h3,
+    .markdown-section h4 {
+      color: #2c3e50;
+      font-weight: 600;
     }
-    h1::before {content: "# ";}
-    h2::before {content: "## ";}
-    h3::before {content: "### ";}
-    h4::before {content: "#### ";}
-    h5::before {content: "##### ";}
-    h6::before {content: "###### ";}
-
-    strong {
-        color: #875faf;
-      /* color: #875faf; */
-        font-style: bold;
-        font-weight: 600;
+    .markdown-section strong {
+      color: #2c3e50;
+      /* color: rgb(35,75,195); -- blue, look good*/
+      /* color: rgb(100, 90, 200); */
+      font-weight: 600;
     }
-    em {
-        color: #5f5f87;
-        font-style: normal;
-        font-weight: ;
+    .markdown-section em {
+      color: rgb(35,75,195);
+      font-style:normal;
     }
-    strong em {/*强调的斜体*/
-        font-style: bold;
-        font-weight: 100;
-        color: red;
+    .markdown-section a {
+      color: var(--theme-color, #42b983);
+      font-weight: 600;
     }
-    u {
-        color: red;
+    .markdown-section h1 {
+      font-size: 2rem;
+      margin: 0 0 1rem;
     }
-    th {
-        font-style: normal;
+    .markdown-section h2 {
+      font-size: 1.6rem;
+      margin: 45px 0 0.8rem;
+    }
+    .markdown-section h3 {
+      font-size: 1.6rem;
+      margin: 40px 0 0.6rem;
+    }
+    .markdown-section h4 {
+      font-size: 1.4rem;
+    }
+    .markdown-section h5 {
+      font-size: 1.2rem;
+    }
+    .markdown-section h6 {
+      color: #777;
+      font-size: 1.2rem;
+    }
+    .markdown-section h1::before {
+      content: "# ";
     }
     </style>
-
+  
+  
   </head>
 
   <body>
@@ -144,7 +138,7 @@
 
         // 頁面滾回頂部按鈕
         scrollToTop: {
-          auto: false,
+          auto: true,
           text: 'Top',	<!-- 文字顯示 -->
           right: 15,		<!-- 方位右邊 -->
           bottom: 15,		<!-- 方位下面 -->
@@ -180,7 +174,7 @@
     <!-- search -->
     <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
     <!-- 頁面滾回頂部按鈕 -->
-    <!-- <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script> -->
+    <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
     <!-- toc -->
 
     <!-- front-matter -->

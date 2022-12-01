@@ -6,6 +6,7 @@
 * [憲法](03.xian.fa/)
 * [犯罪學](07-fan-zui-xue/)
 * [Tarot](tarot/)
+* [bookmarks](00.bookmarks/)
 ---
 
 * [Usage](usage)

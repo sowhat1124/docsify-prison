@@ -10,10 +10,13 @@
     <!-- themes -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" >
 
+
     <!-- Custom theme styles -->
     <style>
       :root {
+        --body-background-color: #red;
         --sidebar-width: 20rem;
+        --base-background-color: rgb(225, 225, 225);
         /* Tables */
         --table-body-border-width: 1px;
         --table-body-border-color: var(--table-cell-border-color);
@@ -40,11 +43,66 @@
         box-shadow: none !important;
         width: auto !important;
       }
-
+    /*-----------------------*/
+    /* markdown content found on pages */
+    .markdown-section h1,
+    .markdown-section h2,
+    .markdown-section h3,
+    .markdown-section h4 {
+      color: #2c3e50;
+      font-weight: 600;
+    }
+    .markdown-section strong {
+      color: #2c3e50;
+      /* color: rgb(35,75,195); -- blue, look good*/
+      /* color: rgb(100, 90, 200); */
+      font-weight: 600;
+    }
+    .markdown-section em {
+      color: rgb(35,75,195);
+      font-style:normal;
+    }
+    .markdown-section a {
+      color: var(--theme-color, #42b983);
+      font-weight: 600;
+    }
+    .markdown-section h1 {
+      font-size: 2.25rem;
+      margin: 0 0 1rem;
+    }
+    .markdown-section h2 {
+      font-size: 2rem;
+      margin: 45px 0 0.8rem;
+    }
+    .markdown-section h3 {
+      font-size: 1.75rem;
+      margin: 40px 0 0.6rem;
+    }
+    .markdown-section h4 {
+      font-size: 1.5rem;
+    }
+    .markdown-section h5 {
+      font-size: 1.25rem;
+    }
+    .markdown-section h6 {
+      color: #777;
+      font-size: 1rem;
+    }
     </style>
   
   
   </head>
+
+  <!-- 
+  <body>
+  <body style="background-color:aquamarine;">
+  <body style="background-color:rgb(255, 99, 71);">
+  <body style="background-color:#ff6347;">
+  <body style="background-color:hsl(9, 100%, 64%);">
+  <body style="background-color:rgba(255, 99, 71, 0.5);">
+  <body style="background-color:hsla(9, 100%, 64%, 0.5);">
+  <body style="background-color:rgb(225, 225, 225);">
+  -->
   <body>
     <div id="app"></div>
 
@@ -66,7 +124,8 @@
         loadNavbar: true,
         topMargin: 90, // default: 0
         coverpage: false,
-
+        // relativePath
+        //relativePath: true,
         // plug-in
         // 01-字数统计
         count:{
@@ -92,9 +151,8 @@
           bottom: 15,		<!-- 方位下面 -->
           offset: 500
         }
-        //
 
-        //finish
+              //finish
       };
     </script>
 
@@ -107,30 +165,27 @@
     <!-- plug-in -->
     <!-- 01-字数统计 -->
     <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
-  
     <!-- copy from offical -->
     <script src="/lib/plugins/search.js"></script>
     <script src="/lib/plugins/front-matter.js"></script>
-
     <!-- code high light -->
     <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-nginx.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-php.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-python.min.js"></script>
-
     <!-- footnote -->
     <script src="//cdn.jsdelivr.net/npm/@sy-records/docsify-footnotes/lib/index.min.js"></script>
-
     <!-- 底部添加一对按钮用于跳转到上一篇或下一篇 -->
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-
     <!-- search -->
     <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
-
     <!-- 頁面滾回頂部按鈕 -->
     <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
+    <!-- toc -->
 
+    <!-- front-matter -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/front-matter.min.js"></script>
     <!-- not use now 
     ---
     ---
@@ -139,7 +194,8 @@
 
     <!-- Done -->
     </script>
-
+  <!-- ar -->
   </body>
+
 </html>
 
