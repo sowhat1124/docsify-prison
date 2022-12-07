@@ -285,3 +285,48 @@
 [GitHub - spf13/spf13-vim: The ultimate vim distribution](https://github.com/spf13/spf13-vim)
 
 [GitHub - humiaozuzu/dot-vimrc: Maple's vim config files](https://github.com/humiaozuzu/dot-vimrc)
+
+## unsort
+
+[GitHub - VSCodeVim/Vim: Vim for Visual Studio Code](https://github.com/VSCodeVim/Vim)
+
+[vscode快速切换vim](https://juejin.cn/post/6844903842362998791)
+
+
+[vim 插入模式 移動 - Google 搜尋](https://www.google.com/search?q=vim+插入模式+移動&oq=vim+插入模式+移動&aqs=chrome..69i57j69i64.6022j0j4&sourceid=chrome&ie=UTF-8)
+
+[c65299aaa4766e35.jpeg (1024×567)](https://i.bmp.ovh/imgs/2019/06/c65299aaa4766e35.jpeg)
+
+[Vim 修行之路 | Harttle Land](https://harttle.land/vim-practice.html)
+
+[在 Vim 中优雅地查找和替换 | Harttle Land](https://harttle.land/2016/08/08/vim-search-in-file.html)
+
+5
+
+[Vim 多視窗編輯檔案的操作方法](https://www.arthurtoday.com/2016/06/how-to-use-vim-winow-well.html)
+
+[Vim 多視窗編輯檔案的操作方法](https://www.arthurtoday.com/2016/06/how-to-use-vim-winow-well.html)
+
+[Vim怎麼顯示空格、Tab製表符、行尾換行符等非列印字元_vim.ink - MdEditor](https://www.mdeditor.tw/pl/pld6/zh-tw)
+
+[vim技巧：设置空格和Tab字符可见，并自定义显示的字符颜色_南木阁 - SegmentFault 思否](https://segmentfault.com/a/1190000021101602)
+
+[Vim 多視窗編輯檔案的操作方法](https://www.arthurtoday.com/2016/06/how-to-use-vim-winow-well.html)
+
+[vim分屏快捷键使用/增大/减小字体使用 - 罗松超 - 博客园](https://www.cnblogs.com/luosongchao/p/3254451.html)
+
+[Gvim 字体大小设置_wl23301的专栏-CSDN博客](https://blog.csdn.net/wl23301/article/details/19284739)
+
+[Vim 多視窗編輯檔案的操作方法](https://www.arthurtoday.com/2016/06/how-to-use-vim-winow-well.html)
+
+[即將失傳的古老技藝 Vim - YouTube](https://www.youtube.com/playlist?list=PLBd8JGCAcUAH56L2CYF7SmWJYKwHQYUDI)
+
+[興趣沒有目的地 | 曾 博恩 | TEDxProvidenceUniversity - YouTube](https://www.youtube.com/watch?v=CJd1Qiz8QDQ)
+
+[vim - 如何在vim中设置多个颜色列/ cc(:set colorcolumn)？ - IT工具网](https://www.coder.work/article/6927216)
+
+9
+
+[vim 切換窗口 - Google 搜尋](https://www.google.com/search?q=vim+切換窗口&oq=vim+切換窗口&aqs=chrome..69i57j69i64.6502j0j7&sourceid=chrome&ie=UTF-8)
+
+[vim打开多窗口、多文件之间的切换_xuin的博客-CSDN博客](https://blog.csdn.net/qq_22716879/article/details/50810449)

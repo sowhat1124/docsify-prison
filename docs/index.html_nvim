@@ -57,7 +57,7 @@
         --heading-h6-font-weight: 600;
 
         /* links */
-        --link-color: darkorange;
+        --link-color: rgb(100,150,255);
         /* code */
         --code-inline-background: rgb(45,45,45);
         /* blokquote */
