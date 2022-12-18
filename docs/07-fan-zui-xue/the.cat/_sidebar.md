@@ -24,8 +24,6 @@
 
 [c02](/07-fan-zui-xue/the.cat/c02.md)
 [#1：犯罪理論的歷史發展)](/07-fan-zui-xue/the.cat/c02.s01.ar.md)
-<!-- [#1：犯罪理論的歷史發展)](/07-fan-zui-xue/the.cat/c02.s01.md) -->
-[c02.s01.cat](/07-fan-zui-xue/the.cat/c02.s01.cat.md)
 [#2：犯罪生物學派](/07-fan-zui-xue/the.cat/c02.s02.md)
 [#3：犯罪心理學派](/07-fan-zui-xue/the.cat/c02.s03.md)
 [c02.s04](/07-fan-zui-xue/the.cat/c02.s04.md)
