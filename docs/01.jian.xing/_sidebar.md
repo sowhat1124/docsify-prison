@@ -5,6 +5,7 @@
 * [監獄行刑法本法](01.jian.xing/001.ben.fa.md)
 * [比較表](01.jian.xing/002.bi.jiao)
 * [本法重點](01.jian.xing/003.tong.zheng)
+* [本法重點-new](01.jian.xing/001.ben.fa.note.md)
 * [§ 7, 監獄及看守所外部視察小組實施辦法](01.jian.xing/004.ban.fa.01)
 * [§ 9, 受刑人資料調查辦法](01.jian.xing/005.ban.fa.02)
 * [§ 17, 監獄受刑人移監作業辦法](01.jian.xing/006.ban.fa.03)
