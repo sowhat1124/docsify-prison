@@ -2,6 +2,7 @@
 
 [Home](/README)
 
+* [note](01.jin.xing/001ben.fa.note.md)
 * [監獄行刑法本法](01.jian.xing/001.ben.fa.md)
 * [比較表](01.jian.xing/002.bi.jiao)
 * [本法重點](01.jian.xing/003.tong.zheng)
