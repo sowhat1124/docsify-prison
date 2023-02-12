@@ -1,5 +1,7 @@
 # 小鶴
 
+"delete next time"
+
 双拼键位图
 
 qwerty
