@@ -4,6 +4,8 @@
 
 * [note](01.jin.xing/001ben.fa.note.md)
 * [監獄行刑法本法](01.jian.xing/001.ben.fa.md)
+* [監獄行刑法本法筆記](01.jian.xing/001.ben.fa.note.md)
+* [監獄行刑法本法筆記重點](01.jian.xing/001.ben.fa.note2.md)
 * [比較表](01.jian.xing/002.bi.jiao)
 * [本法重點](01.jian.xing/003.tong.zheng)
 * [本法重點-new](01.jian.xing/001.ben.fa.note.md)
